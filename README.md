@@ -32,7 +32,7 @@ This Project will explore the deployment of Application on the Cloud and increas
 
 ## Methodology
 
-
+![alt text](https://github.com/Suryansh555/SecureFileStorageonCloud/blob/main/Images/Methodology.png)
 
 ## How to run
 
@@ -43,8 +43,11 @@ This Project will explore the deployment of Application on the Cloud and increas
 
 ## Output
 
+![alt text](https://github.com/Suryansh555/SecureFileStorageonCloud/blob/main/Images/Output.png)
+
 ## Email You recieve
 
+![alt text](https://github.com/Suryansh555/SecureFileStorageonCloud/blob/main/Images/Email.png)
 
 ## Future Enhancement
 
